@@ -8,7 +8,7 @@ export const Footer = () => {
         <div className="flex flex-col items-center gap-3 sm:gap-4">
           <div className="flex items-center justify-center gap-4 sm:gap-6">
             <a 
-              href="https://github.com/yashksaini-coder" 
+              href="https://github.com/Sibam-Paul" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors"
@@ -17,7 +17,7 @@ export const Footer = () => {
               <Github size={16} className="sm:size-[18px]" />
             </a>
             <a 
-              href="https://x.com/yash_k_saini" 
+              href="https://x.com/sivmdev" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-slate-800 transition-colors"
@@ -26,7 +26,7 @@ export const Footer = () => {
               <RiTwitterXLine size={16} className="sm:size-[18px]" />
             </a>
             <a 
-              href="https://www.linkedin.com/in/yashksaini/" 
+              href="https://www.linkedin.com/in/sibam-paul-b717b4281/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-blue-500 transition-colors"
@@ -40,7 +40,7 @@ export const Footer = () => {
             <span className="mx-1">·</span>
             <span className="flex items-center flex-wrap justify-center">
               Made with <Coffee size={10} className="text-red-500 mx-1 sm:size-[12px]" fill="currentColor" /> by 
-              <div className='ml-1 sm:ml-2 hover:bg-violet-600 hover:text-white px-1 rounded transition-colors'>Yash K. Saini</div>
+              <div className='ml-1 sm:ml-2 hover:bg-violet-600 hover:text-white px-1 rounded transition-colors'>Sibam Paul</div>
             </span>
           </div>
         </div>
