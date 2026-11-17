@@ -2,7 +2,6 @@
 
 > [!NOTE]
 > 
-> INTRODUCTION_PARAGRAPH
 > Visualize GitHub contributions, allowing users to 
 > customize, export, and share their activity as high-quality
 > images on Twitter, Instagram, and LinkedIn.
@@ -62,13 +61,13 @@
 > We welcome contributions to improve **Git Graph**! If you have suggestions, bug fixes, or new feature ideas, follow these steps:
 
 1. **Fork the Repository**  
-   Click the **[Fork](https://github.com/yashksaini-coder/git-graph/fork)** button at the top-right of the repo page.
+   Click the **[Fork](https://github.com/Sibam-Paul/git-graph/fork)** button at the top-right of the repo page.
 
 2. **Clone Your Fork**  
    Clone the repo locally:
 
    ```bash
-   git clone https://github.com/yashksaini-coder/git-graph
+   git clone https://github.com/Sibam-Paul/git-graph
    ```
 
 3. **Create a Branch**  
@@ -97,14 +96,14 @@
 
 ## 🙋‍♂️ Issues
 
-Found a bug or need help? Please create an issue on the [GitHub repository](https://github.com/yashksaini-coder/git-graph) with a detailed description.
+Found a bug or need help? Please create an issue on the [GitHub repository](https://github.com/Sibam-Paul/git-graph) with a detailed description.
 
 ---
 
 ## 📄 License
 
 <p align="center">
-<strong>Git Graph</strong> is licensed under the <code>MIT</code> License. See the <a href="https://github.com/yashksaini-coder/git-graph/blob/master/License.md">LICENSE</a> file for more details.
+<strong>Git Graph</strong> is licensed under the <code>MIT</code> License. See the <a href="https://github.com/Sibam-Paul/git-graph/blob/master/License.md">LICENSE</a> file for more details.
 </p>
 
 ---
@@ -116,15 +115,15 @@ Found a bug or need help? Please create an issue on the [GitHub repository](http
 
 ## 👤 Author
 
-<a href="https://github.com/yashksaini-coder">
+<a href="https://github.com/Sibam-Paul">
     <table>
         <tbody>
             <tr>
                 <td align="left" valign="top" width="14.28%">
-                    <img src="https://github.com/yashksaini-coder.png?s=60" width="130px;"/>
+                    <img src="https://github.com/Sibam-Paul.png?s=60" width="130px;"/>
                     <br/>
                     <h4 align="center">
-                        <b>Yash K. Saini</b>
+                        <b>Sibam Paul</b>
                     </h4>
                     <div align="center">
                         <p>(Author)</p>
@@ -132,7 +131,7 @@ Found a bug or need help? Please create an issue on the [GitHub repository](http
                 </td>
                 <td align="left" valign="top" width="85%">
                     <p>
-                        👋 Hi there! I'm <u><em><strong>Yash K. Saini</strong></em></u>, a self-taught software developer and a computer science student from India.
+                        👋 Hi there! I'm <u><em><strong>Sibam Paul</strong></em></u>, a self-taught software developer and a computer science student from India.
                     </p>
                     <ul>
                      <li>
